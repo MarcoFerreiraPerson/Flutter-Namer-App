@@ -1,6 +1,8 @@
 # namer_app
 
-A new Flutter project.
+This is my first project using Flutter.
+
+I did this to learn syntax and the language.
 
 ## Getting Started
 
